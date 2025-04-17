@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Michael!
 
-<!--
-**MichaelDeFreitas/MichaelDeFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação com experiência prática em **PHP**, **banco de dados (MySQL)**, e um toque de **HTML e CSS**. Estudei na ETEC - Pref° Alberto Feres em sua extensão na escola E.E. Cesário Coimbra, onde tive contato com diversas áreas da TI, mas o que mais me destacou foi a construção de sistemas dinâmicos usando PHP e SQL, atualmente estudando TI na faculdade Fatec Araras - Antonio Brambila para aprimorar o conhecimento.
 
-Here are some ideas to get you started:
+🚀 **Atualmente focado em**:
+- Aprimorar meus conhecimentos gerais, PHP e SQL
+- Criar sistemas web criativos e funcionais
+- Aprender JavaScript e frameworks modernos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tecnologias e ferramentas que uso**:
+- PHP, MySQL  
+- HTML5, CSS3  
+- Git & GitHub  
+- VS Code
+
+---
+
+## 🧱 Projetos em construção
+
+Estou trabalhando em alguns projetos para praticar minhas habilidades com PHP e banco de dados. Em breve, vou atualizar aqui com mais novidades!
+
+---
+
+## 📫 Contato
+
+- 📧 Email: [michaelkaike1@hotmail.com](mailto:michaelkaike1@hotmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/michael-pierre-nintz-de-freitas](https://br.linkedin.com/in/michael-pierre-nintz-de-freitas-55580328b)  
+- 🐙 GitHub: [github.com/MichaelDeFreitas](https://github.com/MichaelDeFreitas)
+
+---
+
+⭐ Se curtir meus projetos, deixa uma ⭐ nos repositórios!
