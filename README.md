@@ -16,8 +16,9 @@ Sou um desenvolvedor em formação com experiência prática em **PHP**, **banco
 ---
 
 ## 🧱 Projetos em construção
-Projeto em C++ de adivinhação.
+Projeto em C++ de adivinhação.  
 [clique aqui](https://github.com/MichaelDeFreitas/Adivinha-o)
+
 Estou trabalhando em mais projetos para praticar minhas habilidades. Em breve, vou atualizar aqui com mais novidades!
 
 ---
