@@ -1,14 +1,13 @@
 ## 👋 Olá, eu sou o Michael!
 
-Sou um desenvolvedor em formação com experiência prática em **PHP**, **banco de dados (MySQL)**, e um toque de **HTML e CSS**. Estudei na ETEC - Pref° Alberto Feres em sua extensão na escola E.E. Cesário Coimbra, onde tive contato com diversas áreas da TI, mas o que mais me destacou foi a construção de sistemas dinâmicos usando PHP e SQL, atualmente estudando TI na faculdade Fatec Araras - Antonio Brambila para aprimorar o conhecimento.
+Sou um desenvolvedor em formação com experiência prática em **HTML e CSS**. Estudei na ETEC - Pref° Alberto Feres em sua extensão na escola E.E. Cesário Coimbra, onde tive contato com diversas áreas da TI, atualmente estudando TI na faculdade Fatec Araras - Antonio Brambila para aprimorar o conhecimento.
 
 🚀 **Atualmente focado em**:
-- Aprimorar meus conhecimentos gerais, PHP e SQL
+- Aprimorar meus conhecimentos gerais.
 - Criar sistemas web criativos e funcionais
 - Aprender JavaScript e frameworks modernos
 
 🛠️ **Tecnologias e ferramentas que uso**:
-- PHP, MySQL  
 - HTML5, CSS3  
 - Git & GitHub  
 - VS Code
